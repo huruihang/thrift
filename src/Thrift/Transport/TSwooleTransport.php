@@ -2,7 +2,7 @@
 
 namespace Thrift\Transport;
 
-use Thrift\Exception\TException;
+use Thrift\Exception\TTransportException;
 use Thrift\Factory\TStringFuncFactory;
 
 
